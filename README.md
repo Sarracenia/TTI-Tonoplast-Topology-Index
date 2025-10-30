@@ -6,7 +6,7 @@
 
 <a href="https://doi.org/10.1101/2025.08.06.668875" target="_blank">doi.org/10.1101/2025.08.06.668875</a>
 
-* More sample images available at the <a href="https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD2226" target="_blank">repository</a>.
+** More sample images available at the <a href="https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD2226" target="_blank">repository</a>.**
 ---
 
 ## Package contents:
