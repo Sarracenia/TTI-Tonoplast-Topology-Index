@@ -14,6 +14,7 @@
 * This document  
 * ImageJ macro: Stage1.ijm  
 * Jupyter Notebook file: Stage2.ipynb
+* Sample data folder with sample image and expected outputs
 
 **Required:** 
 
@@ -52,6 +53,11 @@ Instructions in plain text, file/folder names and variable/parameter names in Co
     * *There will also be a zipped file with ROIs and an overlay image that you might find useful when troubleshooting. If you intend to keep these files, copy or move them somewhere else, because they get overwritten when you run the macro again, for example when going back to step 6 for another level of focus.*  
 12. To analyze next image, close everything except ***Fiji*** and the macro, open another image file and proceed to step 3\. Repeat until you have processed all your files and then exit ***Fiji***.
 
+<figure>
+    <figcaption>Example of denoised image with ROIs for measurement by using the macro.</figcaption>
+    <img src="/Sample data/sample-image-rois.png" width="225" height="575" alt="Sample root image with marked rois.">
+</figure>
+
 **Before Stage 2:**
 
 * Copy one instance of Stage2.ipynb into each of the folders that contain your \*.csv files from Stage 1\.   
@@ -72,7 +78,10 @@ Instructions in plain text, file/folder names and variable/parameter names in Co
   * Any plots generated in the course of the analysis can be copied from the on-screen output as \*.png if needed.  
 * At the end, results will be written into an Excel spreadsheet called output.xlsx in the same directory, which can be used for further statistical analysis.
 
-
+<figure>
+    <figcaption>Example of histogram with detected peaks.</figcaption>
+    <img src="/Sample data/sample-histogram.png" width="531" height="339" alt="Sample histogram">
+</figure>
 
 
 
